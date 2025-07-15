@@ -1,2 +1,3 @@
 # EasiestBlue
-Visual Neo Bluetooth Plug-In Demonstration
+VisualNEOWin Bluetooth Plug-In Demonstration.
+Down-load the installer to experience its functional simplicity.
